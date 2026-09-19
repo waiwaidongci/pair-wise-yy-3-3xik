@@ -26,6 +26,33 @@
               "step": "切割",
               "note": "完成粗切"
             }
+          ],
+          "homeLocation": "标本库 A-01",
+          "location": "标本库 A-01",
+          "holder": null,
+          "sealed": true,
+          "custody": null,
+          "quarantine": null,
+          "contamination": null,
+          "history": [
+            {
+              "id": "EV-mu7plf77-0",
+              "at": "2026-06-12T10:00:00.000Z",
+              "kind": "制片",
+              "step": "取样",
+              "note": "截取含矿化条带位置",
+              "person": "陆川",
+              "location": "制片区"
+            },
+            {
+              "id": "EV-mu7plf77-1",
+              "at": "2026-06-13T11:20:00.000Z",
+              "kind": "制片",
+              "step": "切割",
+              "note": "完成粗切",
+              "person": "陆川",
+              "location": "制片区"
+            }
           ]
         }
       ]
